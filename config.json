@@ -1,0 +1,293 @@
+{
+  "ads": {
+    "activate_ads": false,
+    "activate_banner": "on",
+    "activate_inter": "on",
+    "network": "admob",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "ad_int_interval": 3,
+    "ad_score_amount": 1,
+    "ad_game_minutes": 1,
+    "score_rating_reward": 10,
+    "one_signal": "YOUR_ONESIGNAL_APP_ID",
+    "update_app": false,
+    "update_app_link": "https://play.google.com/store/apps/details?id=com.yourname.gameportal",
+    "show_notification": true,
+    "notification_counter_ms": 360000,
+    "notification_title": "🎮 New Games Available!",
+    "notification_text": "Come back and play new games added today!",
+    "active_slider": true,
+    "slide_count": 3,
+    "rate_comment": true,
+    "show_rate": true,
+    "orientation": "portrait",
+    "game_name": "Subway Surfers Online",
+    "game_cover": "https://img.gamedistribution.com/9f4ef0b3203a4e4c9b04b4a3b3a7c8e2-512x384.jpeg",
+    "game_gif": "https://img.gamedistribution.com/9f4ef0b3203a4e4c9b04b4a3b3a7c8e2-512x384.jpeg",
+    "game_link": "https://html5.gamedistribution.com/9f4ef0b3203a4e4c9b04b4a3b3a7c8e2/",
+    "ad_image": "https://picsum.photos/400/200?random=99",
+    "ad_link": "https://play.google.com",
+    "comments": [
+      "Best game app I have ever used! So many games to play for free!",
+      "Amazing collection of games, I play every day. Highly recommend!",
+      "Love this app! The puzzle and quiz games are so fun and addictive.",
+      "Great app with tons of games. Works perfectly on my phone!",
+      "The best game portal on the Play Store. Download it now!"
+    ],
+    "slides": [
+      {
+        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800",
+        "title": "Welcome to Game Portal",
+        "subtitle": "Hundreds of free HTML5 games in one app — no downloads needed!"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800",
+        "title": "Play Anytime, Anywhere",
+        "subtitle": "Action, puzzle, sports, racing — all genres in one place."
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
+        "title": "Win Points & Rewards",
+        "subtitle": "Spin the wheel, scratch cards, and play quizzes to earn points!"
+      }
+    ]
+  },
+
+  "games": [
+    {
+      "name": "Subway Surfers",
+      "icon": "https://img.gamedistribution.com/9f4ef0b3203a4e4c9b04b4a3b3a7c8e2-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/9f4ef0b3203a4e4c9b04b4a3b3a7c8e2/",
+      "category": "Action",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Angry Birds",
+      "icon": "https://img.gamedistribution.com/9b5b9a1b1c4d4e4f9a1b1c4d4e4f9a1b-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/7f0a5b7a9c4f4e4a9b5b9a1b1c4d4e4f/",
+      "category": "Arcade",
+      "orientation": "landscape"
+    },
+    {
+      "name": "2048",
+      "icon": "https://img.gamemonetize.com/logo/2048.jpg",
+      "link": "https://html5.gamemonetize.co/1dce736ac0584f4fa54946604d0a2d22/",
+      "category": "Puzzle",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Snake Game",
+      "icon": "https://img.gamemonetize.com/logo/snake.jpg",
+      "link": "https://html5.gamemonetize.co/9adfec9b3cd74f6a9b2e7f1a3c5d8e2f/",
+      "category": "Arcade",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Flappy Bird",
+      "icon": "https://img.gamemonetize.com/logo/flappy.jpg",
+      "link": "https://html5.gamemonetize.co/flappy/",
+      "category": "Arcade",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Bubble Shooter",
+      "icon": "https://img.gamedistribution.com/bubble-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/cd04e0f2a3b14c5d9e1f8a7b6c5d4e3f/",
+      "category": "Puzzle",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Temple Run",
+      "icon": "https://img.gamedistribution.com/temple-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/temple-run/",
+      "category": "Action",
+      "orientation": "landscape"
+    },
+    {
+      "name": "Stack Ball",
+      "icon": "https://img.gamedistribution.com/stackball-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/stack-ball/",
+      "category": "Arcade",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Car Racing 3D",
+      "icon": "https://img.gamedistribution.com/racing-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/car-racing/",
+      "category": "Racing",
+      "orientation": "landscape"
+    },
+    {
+      "name": "Candy Crush",
+      "icon": "https://img.gamedistribution.com/candy-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/candy-match/",
+      "category": "Puzzle",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Minecraft Classic",
+      "icon": "https://img.gamedistribution.com/minecraft-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/minecraft-classic/",
+      "category": "Adventure",
+      "orientation": "landscape"
+    },
+    {
+      "name": "Among Us Online",
+      "icon": "https://img.gamedistribution.com/among-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/among-us-online/",
+      "category": "Action",
+      "orientation": "landscape"
+    },
+    {
+      "name": "Football Strike",
+      "icon": "https://img.gamedistribution.com/football-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/football-strike/",
+      "category": "Sports",
+      "orientation": "landscape"
+    },
+    {
+      "name": "Chess",
+      "icon": "https://img.gamedistribution.com/chess-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/chess/",
+      "category": "Strategy",
+      "orientation": "portrait"
+    },
+    {
+      "name": "Tetris",
+      "icon": "https://img.gamedistribution.com/tetris-512x384.jpeg",
+      "link": "https://html5.gamedistribution.com/tetris/",
+      "category": "Puzzle",
+      "orientation": "portrait"
+    }
+  ],
+
+  "more": [
+    {
+      "name": "Your App Name Here",
+      "icon": "https://via.placeholder.com/100x100/6C63FF/ffffff?text=App",
+      "link": "https://play.google.com/store/apps/details?id=com.yourname.app1"
+    },
+    {
+      "name": "Another App",
+      "icon": "https://via.placeholder.com/100x100/FF6584/ffffff?text=App",
+      "link": "https://play.google.com/store/apps/details?id=com.yourname.app2"
+    }
+  ],
+
+  "wallpapers": [
+    { "image": "https://images.unsplash.com/photo-1614294149010-950b698f72c0?w=800" },
+    { "image": "https://images.unsplash.com/photo-1579547945413-497e1b99dac0?w=800" },
+    { "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800" },
+    { "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800" },
+    { "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800" },
+    { "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800" },
+    { "image": "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800" },
+    { "image": "https://images.unsplash.com/photo-1585620385456-4759f9b5c7d9?w=800" },
+    { "image": "https://images.unsplash.com/photo-1519817650390-64a93db51149?w=800" },
+    { "image": "https://images.unsplash.com/photo-1556438064-2d7646166914?w=800" },
+    { "image": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=800" },
+    { "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800" },
+    { "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800" },
+    { "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800" },
+    { "image": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?w=800" },
+    { "image": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=800" }
+  ],
+
+  "scratch": [
+    { "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400" },
+    { "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=400" },
+    { "image": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=400" },
+    { "image": "https://images.unsplash.com/photo-1496843916299-590492c751f4?w=400" },
+    { "image": "https://images.unsplash.com/photo-1524117074681-31bd4de22ad3?w=400" }
+  ],
+
+  "quiz_questions": {
+    "questions": [
+      { "question": "Which company made the iPhone?" },
+      { "question": "What does CPU stand for?" },
+      { "question": "Which game has the most players worldwide?" },
+      { "question": "What year was Minecraft released?" },
+      { "question": "Which country invented chess?" },
+      { "question": "What is the best-selling video game console of all time?" },
+      { "question": "Which company created the Android operating system?" },
+      { "question": "What is the fastest animal in the world?" },
+      { "question": "How many colors are in a rainbow?" },
+      { "question": "What is the largest planet in our solar system?" }
+    ],
+    "answers": [
+      { "answer": "Apple" },
+      { "answer": "Central Processing Unit" },
+      { "answer": "Minecraft" },
+      { "answer": "2011" },
+      { "answer": "India" },
+      { "answer": "PlayStation 2" },
+      { "answer": "Google" },
+      { "answer": "Cheetah" },
+      { "answer": "7" },
+      { "answer": "Jupiter" }
+    ],
+    "options": [
+      { "option": "Apple" }, { "option": "Samsung" }, { "option": "Nokia" }, { "option": "Sony" },
+      { "option": "Central Processing Unit" }, { "option": "Computer Personal Unit" }, { "option": "Core Power Unit" }, { "option": "Central Power Unit" },
+      { "option": "Minecraft" }, { "option": "Fortnite" }, { "option": "PUBG" }, { "option": "Roblox" },
+      { "option": "2011" }, { "option": "2009" }, { "option": "2013" }, { "option": "2015" },
+      { "option": "India" }, { "option": "China" }, { "option": "Persia" }, { "option": "Greece" },
+      { "option": "PlayStation 2" }, { "option": "Nintendo Switch" }, { "option": "Xbox 360" }, { "option": "PlayStation 4" },
+      { "option": "Google" }, { "option": "Apple" }, { "option": "Microsoft" }, { "option": "Samsung" },
+      { "option": "Cheetah" }, { "option": "Lion" }, { "option": "Eagle" }, { "option": "Horse" },
+      { "option": "7" }, { "option": "5" }, { "option": "6" }, { "option": "8" },
+      { "option": "Jupiter" }, { "option": "Saturn" }, { "option": "Neptune" }, { "option": "Mars" }
+    ]
+  },
+
+  "chapters": [
+    {
+      "id": "a",
+      "title": "Beginner Guide",
+      "subtitle": "Start here — learn the basics",
+      "icon": "🌱",
+      "color": "#43B97F"
+    },
+    {
+      "id": "b",
+      "title": "Game Controls",
+      "subtitle": "Master every control and move",
+      "icon": "🎮",
+      "color": "#6C63FF"
+    },
+    {
+      "id": "c",
+      "title": "Pro Strategies",
+      "subtitle": "Advanced tips to win every game",
+      "icon": "🏆",
+      "color": "#F7B731"
+    },
+    {
+      "id": "d",
+      "title": "Characters & Items",
+      "subtitle": "Full guide to all characters",
+      "icon": "⚔️",
+      "color": "#FC5C65"
+    },
+    {
+      "id": "e",
+      "title": "Secrets & Easter Eggs",
+      "subtitle": "Hidden tricks nobody tells you",
+      "icon": "🔮",
+      "color": "#45AAF2"
+    }
+  ],
+
+  "menu": [
+    { "name": "Guide",      "icon": "📖", "color": "#6C63FF", "active": true,  "screen": "Guide" },
+    { "name": "Games",      "icon": "🎮", "color": "#FF6584", "active": true,  "screen": "Games" },
+    { "name": "Quiz",       "icon": "❓", "color": "#43B97F", "active": true,  "screen": "Quiz" },
+    { "name": "Spinner",    "icon": "🎰", "color": "#F7B731", "active": true,  "screen": "Spinner" },
+    { "name": "Puzzle",     "icon": "🧩", "color": "#FC5C65", "active": true,  "screen": "Puzzle" },
+    { "name": "Scratch",    "icon": "🎟️", "color": "#45AAF2", "active": true,  "screen": "Scratch" },
+    { "name": "Wallpapers", "icon": "🖼️", "color": "#FD9644", "active": true,  "screen": "Wallpapers" },
+    { "name": "More Apps",  "icon": "📱", "color": "#26DE81", "active": true,  "screen": "MoreApps" }
+  ]
+}
