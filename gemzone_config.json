@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "GemZone",
+    "version": "1.0.0",
+    "privacy_url": "https://sites.google.com/view/YOUR-PRIVACY-PAGE",
+    "sound_enabled_default": true,
+    "show_rate_after_seconds": 50,
+    "maintenance": false,
+    "maintenance_message": "We are updating GemZone. Back soon! 💎"
+  },
+
+  "diamonds": {
+    "daily_login":        2,
+    "play_memory":        8,
+    "play_tap":           5,
+    "play_html5":         3,
+    "watch_video":        5,
+    "rate_app":          20,
+    "share_app":          8,
+    "complete_all_bonus": 15,
+    "streak_day_3":       10,
+    "streak_day_7":       25,
+    "streak_day_14":      50,
+    "streak_day_30":     100
+  },
+
+  "tiers": [
+    { "name": "Rookie",   "min": 0,    "icon": "🪨", "color": "#888888" },
+    { "name": "Silver",   "min": 100,  "icon": "🥈", "color": "#C0C0C0" },
+    { "name": "Gold",     "min": 500,  "icon": "🥇", "color": "#FFD700" },
+    { "name": "Platinum", "min": 1500, "icon": "💠", "color": "#00D4FF" },
+    { "name": "Diamond",  "min": 5000, "icon": "💎", "color": "#AA00FF" }
+  ],
+
+  "announcement": {
+    "active": false,
+    "title": "🎉 New Update!",
+    "message": "New games and features added. Check them out!",
+    "color": "#00D4FF"
+  }
+}
