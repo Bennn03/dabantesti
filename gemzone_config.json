@@ -12,7 +12,7 @@
   "diamonds": {
     "daily_login":        2,
     "play_memory":        20,
-    "play_tap":           5,
+    "play_tap":           30,
     "play_html5":         3,
     "watch_video":        5,
     "rate_app":          100,
