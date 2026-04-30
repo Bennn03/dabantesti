@@ -15,7 +15,7 @@
     "play_tap":           5,
     "play_html5":         3,
     "watch_video":        5,
-    "rate_app":          20,
+    "rate_app":          100,
     "share_app":          8,
     "complete_all_bonus": 15,
     "streak_day_3":       10,
