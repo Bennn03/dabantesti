@@ -6,24 +6,24 @@
     "sound_enabled_default": true,
     "show_rate_after_seconds": 60,
     "maintenance": false,
-    "maintenance_message": "GemZone is updating. Back soon! 💎"
+    "maintenance_message": "GemZone is updating. Back soon!"
   },
 
   "coins": {
-    "daily_login_coins":   10,
-    "play_memory_coins":   50,
-    "play_tap_coins":      30,
-    "play_html5_coins":    20,
-    "watch_video_coins":   25,
-    "share_app_coins":     40,
+    "daily_login_coins": 10,
+    "play_memory_coins": 50,
+    "play_tap_coins": 30,
+    "play_html5_coins": 20,
+    "watch_video_coins": 25,
+    "share_app_coins": 40,
     "complete_all_coins": 100,
     "double_coins_duration_minutes": 30
   },
 
   "diamonds": {
-    "rate_app":      5,
-    "streak_day_3":  2,
-    "streak_day_7":  5,
+    "rate_app": 5,
+    "streak_day_3": 2,
+    "streak_day_7": 5,
     "streak_day_14": 10,
     "streak_day_30": 20
   },
@@ -38,8 +38,8 @@
 
   "announcement": {
     "active": false,
-    "title": "🎉 New Update!",
-    "message": "Diamond Store is now live! Spend your diamonds on frames and boosters!",
-    "color": "#00E5FF"
+    "title": "Welcome to GemZone!",
+    "message": "Earn coins, exchange for diamonds, climb the ranks!",
+    "color": "#FF8C00"
   }
 }
