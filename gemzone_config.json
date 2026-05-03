@@ -4,38 +4,42 @@
     "version": "1.0.0",
     "privacy_url": "https://sites.google.com/view/YOUR-PRIVACY-PAGE",
     "sound_enabled_default": true,
-    "show_rate_after_seconds": 50,
+    "show_rate_after_seconds": 60,
     "maintenance": false,
-    "maintenance_message": "We are updating GemZone. Back soon! 💎"
+    "maintenance_message": "GemZone is updating. Back soon! 💎"
+  },
+
+  "coins": {
+    "daily_login_coins":   10,
+    "play_memory_coins":   50,
+    "play_tap_coins":      30,
+    "play_html5_coins":    20,
+    "watch_video_coins":   25,
+    "share_app_coins":     40,
+    "complete_all_coins": 100,
+    "double_coins_duration_minutes": 30
   },
 
   "diamonds": {
-    "daily_login":        2,
-    "play_memory":        20,
-    "play_tap":           30,
-    "play_html5":         3,
-    "watch_video":        5,
-    "rate_app":          100,
-    "share_app":          8,
-    "complete_all_bonus": 15,
-    "streak_day_3":       10,
-    "streak_day_7":       25,
-    "streak_day_14":      50,
-    "streak_day_30":     100
+    "rate_app":      5,
+    "streak_day_3":  2,
+    "streak_day_7":  5,
+    "streak_day_14": 10,
+    "streak_day_30": 20
   },
 
   "tiers": [
-    { "name": "Rookie",   "min": 0,    "icon": "🪨", "color": "#888888" },
-    { "name": "Silver",   "min": 100,  "icon": "🥈", "color": "#C0C0C0" },
-    { "name": "Gold",     "min": 500,  "icon": "🥇", "color": "#FFD700" },
-    { "name": "Platinum", "min": 1500, "icon": "💠", "color": "#00D4FF" },
-    { "name": "Diamond",  "min": 5000, "icon": "💎", "color": "#AA00FF" }
+    { "name": "ROOKIE",   "min": 0,    "icon": "🪨", "color": "#888888" },
+    { "name": "SILVER",   "min": 100,  "icon": "🥈", "color": "#C0C0C0" },
+    { "name": "GOLD",     "min": 500,  "icon": "🥇", "color": "#FFD700" },
+    { "name": "PLATINUM", "min": 1500, "icon": "💠", "color": "#00D4FF" },
+    { "name": "DIAMOND",  "min": 5000, "icon": "💎", "color": "#AA00FF" }
   ],
 
   "announcement": {
     "active": false,
     "title": "🎉 New Update!",
-    "message": "New games and features added. Check them out!",
-    "color": "#00D4FF"
+    "message": "Diamond Store is now live! Spend your diamonds on frames and boosters!",
+    "color": "#00E5FF"
   }
 }
